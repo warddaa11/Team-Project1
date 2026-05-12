@@ -1,0 +1,18 @@
+.FirstTitle{
+    color:rgb(110, 161, 143) ;
+    background-color:rgb(220, 237, 235) ;
+    border: 1px solid rgb(110, 161, 143);
+    border-radius: 20px;
+    width: 180px;
+    padding-left: 10px;
+}
+
+.Icons{
+    display: flex;
+    gap: 10px;
+    
+}
+.divicon{
+    display: flex;
+}
+
